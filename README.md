@@ -22,21 +22,6 @@ TensorFlow & OpenCV: For hand gesture recognition and real-time tracking.
 
 Tkinter: For building the graphical user interface (GUI).
 
-# Team Members
-  
-
-
-
-
-
-Amit :- 2301010471
-
-Himanshi :- 2301010428	
-
-Sourabh	:- 2301010454	
-
-Tushar :- 2301010462	
-
 
 
 ## Requirements
